@@ -9,6 +9,10 @@
     - [FAQ](./beginner/faq.md)
 
 - [Gamemodes]()
+    - [Duel](./gamemodes/deathmatch.md)
+    - [Deathmatch](./gamemodes/duel.md)
     - [Clan Arena](./gamemodes/ca.md)
     - [Bomb & Defuse](./gamemodes/bomb.md)
-    - [Duel](./gamemodes/duel.md)
+    - [CTF](./gamemodes/ctf.md)
+    
+    
