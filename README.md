@@ -15,4 +15,4 @@ Join us on <a href="https://discord.gg/Z9UgZZM"> Discord <a> and <a href="https:
 
 ### What you will find in the wiki
 
-This wiki is made for beginners and veteran players. You will find information about weapons, gamemodes, movement, customization as well as development tools for model and map making.
+This wiki is made for beginner and veteran players. You will find information about weapons, gamemodes, movement, customization as well as development tools for model and map making.
