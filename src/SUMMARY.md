@@ -6,7 +6,7 @@
 - [Beginner Info]()
     - [Weapons](./beginner/weapons.md)
     - [Items](./beginner/items.md)
-    - [FAQ](./beginner/faq.md)
+    - [Q&A](./beginner/faq.md)
 
 - [Gamemodes]()
     - [Duel](./gamemodes/deathmatch.md)
@@ -14,5 +14,7 @@
     - [Clan Arena](./gamemodes/ca.md)
     - [Bomb & Defuse](./gamemodes/bomb.md)
     - [CTF](./gamemodes/ctf.md)
+    - [Instagib](./gamemodes/instagib.md)
+    - [Race](./gamemodes/race.md)
     
     
