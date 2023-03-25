@@ -1,0 +1,6 @@
+[book]
+authors = ["yellowsupercar"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Warsow Wiki"
