@@ -7,6 +7,7 @@
 - [Weapons](./beginner/weapons.md)
 - [Health & Armor](./beginner/resources.md)
 - [Items](./beginner/items.md)
+- [Movement](./beginner/movement.md)
 - [Q&A](./beginner/faq.md)
 
 # Gameplay
@@ -18,3 +19,12 @@
   - [CTF](./gamemodes/ctf.md)
   - [Instagib](./gamemodes/instagib.md)
   - [Race](./gamemodes/race.md)
+
+# Configuration
+- [Configuration files](./config/config.md)
+- [Binding keys](./config/bind.md)
+- [Customization](./config/customization/README.md)
+    - [HUD](./config/customization/hud.md)
+    - [Player & Teams](./config/customization/players_teams.md)
+    - [Video](./config/customization/video.md)
+    - [Sound](./config/customization/sound.md)
