@@ -14,17 +14,17 @@
 
 # Weapons
 
-| Weapon                                | Abbr | Description                                                                                                            |
-|---------------------------------------|------|------------------------------------------------------------------------------------------------------------------------|
-| [Gunblade](#gunblade)                 | GB   | A melee weapon that can also fire projectiles if it is upgraded                                                        |
-| [Machinegun](#machinegun)             | MG   | A weapon that fires bullets at a regular interval                                                                      |
-| [Riotgun](#riotgun)                   | RG   | A shotgun that fires a spread of bullets that each deal damage                                                         |
-| [Grenade Launcher](#grenade-launcher) | GL   | Launches grenade like projectiles dealing that persist until they hit an enemy or explode after a fixed amount of time |
-| [Rocket Launcher](#rocket-launcher)   | RL   | Launches rockets in a straight line until they hit a player or terrain                                                 |
-| [Plasma Gun](#plasma-gun)             | PG   | Launches plasma projectiles at a fixed interval                                                                        |
-| [Laser Gun](#laser-gun)               | LG   | Emits a fixed distance laser beam damaging the first encountered enemy                                                 |
-| [Electrobolt](#electrobolt)           | EB   | Sniper rifle that emits a ray of light damaging the first enemy hit.                                                   |
-| [Instabeam](#instabeam)               | IB   | Similar to the Electrobolt but it will one hit kill the enemy. This weapon is only available in Instagib gamemode.     |
+| Weapon                                | Abbr | Description                                                                                                             |
+|---------------------------------------|------|-------------------------------------------------------------------------------------------------------------------------|
+| [Gunblade](#gunblade)                 | GB   | A melee weapon that can also fire projectiles if it is upgraded.                                                        |
+| [Machinegun](#machinegun)             | MG   | A weapon that fires bullets at a regular interval.                                                                      |
+| [Riotgun](#riotgun)                   | RG   | A shotgun that fires a spread of bullets that each deal damage.                                                         |
+| [Grenade Launcher](#grenade-launcher) | GL   | Launches grenade like projectiles dealing that persist until they hit an enemy or explode after a fixed amount of time. |
+| [Rocket Launcher](#rocket-launcher)   | RL   | Launches rockets in a straight line until they hit a player or terrain.                                                 |
+| [Plasma Gun](#plasma-gun)             | PG   | Launches plasma projectiles at a fixed interval.                                                                        |
+| [Laser Gun](#laser-gun)               | LG   | Emits a fixed distance laser beam damaging the first encountered enemy.                                                 |
+| [Electrobolt](#electrobolt)           | EB   | Sniper rifle that emits a ray of light damaging the first enemy hit.                                                    |
+| [Instabeam](#instabeam)               | IB   | Similar to the Electrobolt but it will one hit kill the enemy. This weapon is only available in Instagib gamemode.      |
 
 #### Game variables
 
@@ -122,7 +122,7 @@ The grenade launcher is a projectile weapon that fires explosive grenades. It's 
 - The grenades have a small blast radius, so players need to aim accurately to hit their target.
 - The grenade launcher has a slow rate of fire, which means players need to carefully time their shots.
 - The grenade launcher can also be used to rocket jump, which involves firing a grenade at the ground beneath the player's feet to propel themselves into the air.
-- It can be risky to use in close-quarters combat, as the grenades can cause self-damage
+- It can be risky to use in close-quarters combat, as the grenades can cause self-damage.
 
 ##  Rocket Launcher
 
@@ -139,7 +139,7 @@ The rocket launcher is a powerful projectile weapon that fires explosive rockets
 - The rocket launcher has a moderate rate of fire, which means players need to carefully time their shots.
 - You can shoot at the feet of your opponents to launch them into the air, making them easier to hit with other weapons like the [electrobolt](#electrobol).
 - The rocket launcher can also be used to rocket jump, which involves firing a rocket at the ground beneath the player's feet to propel themselves into the air.
-- It can be risky to use in close-quarters combat, as the rockets can cause self-damage
+- It can be risky to use in close-quarters combat, as the rockets can cause self-damage.
 
 
 ##  Plasma Gun

@@ -13,4 +13,4 @@ seta clan lambo             // sets your in-game clan name
 
 ## Executing config files
 
-You can create standalone configuration files in your [basewsw](../beginner/faq.md#where-do-i-find-my-config--demos--screenshots--etc) directory that can then be executed at your will in the console.
+You can create standalone configuration files in your [basewsw](../beginner/faq.md#where-do-i-find-my-config--demos--screenshots--etc) directory that can then be executed at your will in the console using the `exec` command.
