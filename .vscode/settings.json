@@ -8,7 +8,11 @@
         "Instagib",
         "Knockback",
         "Machinegun",
+        "prefire",
+        "respawn",
+        "respawning",
         "Riotgun",
+        "teleporters",
         "Warsow"
     ]
 }
