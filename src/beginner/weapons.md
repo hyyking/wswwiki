@@ -34,8 +34,8 @@ The gunblade is a melee weapon that can also fire projectiles if you hold the up
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 600                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 5000                   |
@@ -80,8 +80,8 @@ The machine gun is weapon that fires damaging bullets at a regular interval.
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 100                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 6000                   |
@@ -127,8 +127,8 @@ The Riotgun is a shotgun like weapon that fires a burst of bullets. The spread o
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 20                     |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 900                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 8192                   |
@@ -176,8 +176,8 @@ The grenade launcher is a projectile weapon that fires explosive grenades. It's 
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 800                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 1250                   |
@@ -225,8 +225,8 @@ The rocket launcher is a powerful projectile weapon that fires explosive rockets
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 950                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 10000                  |
@@ -271,8 +271,8 @@ The plasma gun is a rapid-fire weapon that fires streams of plasma energy. Each 
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 100                    |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 5000                   |
@@ -316,8 +316,8 @@ The laser gun is a futuristic energy weapon that fires a continuous beam of ener
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 50                     |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 850                    |
@@ -363,8 +363,8 @@ The electrobolt is a powerful long-range weapon that fires a single, highly accu
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 1250                   |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 900                    |
@@ -404,8 +404,8 @@ The instabeam is an empowered electrobolt only available in [instagib](../gamemo
 | Ammo/shot            | 1                      |
 | Projectile/shot      | 1                      |
 | <b>Timing (ms)</b>   | ---------------------- |
-| Weapon Up            | WEAPONUP_FRAMETIME     |
-| Weapon Down          | WEAPONDOWN_FRAMETIME   |
+| Weapon Up            | 50                     |
+| Weapon Down          | 50                     |
 | Reload               | 1300                   |
 | Cooldown             | 0                      |
 | Projectile Timeout   | 8024                   |
