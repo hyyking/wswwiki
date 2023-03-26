@@ -1,3 +1,11 @@
+<style>
+    img {
+        width: auto;
+        max-height: 480px;
+    }
+</style>
+
+
 # Items
 
 | Items                         | Description                             |
@@ -19,25 +27,25 @@
 ### Health vials
 
 <div align="center">
-<img src="../static/5health.jpg" height="480px">
+<img src="../static/5health.jpg" >
 </div>
 
 ### Health bubble (25hp)
 
 <div align="center">
-<img src="../static/25health.jpg" height="480px">
+<img src="../static/25health.jpg" >
 </div>
 
 ### Health bubble (50hp)
 
 <div align="center">
-<img src="../static/50health.jpg" height="480px">
+<img src="../static/50health.jpg" >
 </div>
 
 ### Mega health
 
 <div align="center">
-<img src="../static/megahealth.jpg" height="480px">
+<img src="../static/megahealth.jpg" >
 </div>
 
 ## Armor items
@@ -52,25 +60,25 @@
 ### Armor Shards
 
 <div align="center">
-<img src="../static/armorshards.jpg" height="480px">
+<img src="../static/armorshards.jpg" >
 </div>
 
 ### Green Armor
 
 <div align="center">
-<img src="../static/greenarmor.jpg" height="480px">
+<img src="../static/greenarmor.jpg" >
 </div>
 
 ### Yellow Armor
 
 <div align="center">
-<img src="../static/yellowarmor.jpg" height="480px">
+<img src="../static/yellowarmor.jpg" >
 </div>
 
 ### Red Armor
 
 <div align="center">
-<img src="../static/redarmor.jpg" height="480px">
+<img src="../static/redarmor.jpg" >
 </div>
 
 ## Damage items
@@ -78,17 +86,17 @@
 ### Weapon Item
 
 <div align="center">
-<img src="../static/weapon_item.jpg" height="480px">
+<img src="../static/weapon_item.jpg" >
 </div>
 
 ### Ammo Item
 
 <div align="center">
-<img src="../static/ammo_item.jpg" height="480px">
+<img src="../static/ammo_item.jpg" >
 </div>
 
 ### Quad damage
 
 <div align="center">
-<img src="../static/quad.jpg" height="480px">
+<img src="../static/quad.jpg" >
 </div>

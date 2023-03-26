@@ -23,4 +23,4 @@ In Warsow, players can pick up four different types of [armor items](./items.md#
 - [Yellow armor](./items.md#yellow-armor): This provides 75 points of armor protection up to 125 armor.
 - [Red armor](./items.md#red-armor): This provides 100 points of armor protection up to 150 armor.
 
-Armor is represented by a blue bar that appears above a player's health bar. When a player takes damage, their armor is depleted before their health is affected. If a player runs out of armor, any additional damage they take will affect their health directly.
+Armor is represented by a blue bar that appears above a player's health bar. When a player takes damage, 2/3rds of the damage goes to the armor before damaging health. If a player runs out of armor, any additional damage they take will affect their health directly.
